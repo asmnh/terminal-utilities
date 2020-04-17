@@ -1,0 +1,8 @@
+[alias]
+  list = log --pretty=format:'%C(yellow)%h%Cred%d%Creset - %C(cyan)%an %Creset: %s                %Cgreen(%cr)' --graph
+  graph = log --pretty=format:'%C(yellow)%h%Cred%d%Creset - %C(cyan)%an %Creset: %s                %Cgreen(%cr)' --graph --all
+  ignored = !git ls-files -v | grep "^[[:lower:]]"
+
+[core]
+  autocrlf = false
+  eol = =
