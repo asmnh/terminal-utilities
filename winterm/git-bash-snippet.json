@@ -1,0 +1,18 @@
+{
+  "guid": "{95212284-2f23-4590-9cae-4f683a390ae3}",
+  "acrylicOpacity" : 0.75,
+  "closeOnExit" : true,
+  "colorScheme" : "Campbell",
+  "commandline" : "\"%PROGRAMFILES%\\git\\bin\\bash.exe\" --login -i -l",
+  "cursorColor" : "#FFFFFF",
+  "cursorShape" : "bar",
+  "fontFace" : "Consolas",
+  "fontSize" : 12,
+  "historySize" : 9001,
+  "icon": "ms-appdata:///roaming/git-bash_32px.ico",
+  "name" : "Git Bash",
+  "padding" : "0, 0, 0, 0",
+  "snapOnInput" : true,
+  "startingDirectory" : "%USERPROFILE%",
+  "useAcrylic" : true
+}
