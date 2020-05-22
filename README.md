@@ -31,3 +31,8 @@ Reads clipboard content as text and outputs it to stdout. Named after macos term
 ### Cheatsheets
 
 Contents of `/docs` folder is set of markdown files with each being a handy cheatsheet for solutions to common problems. This part will be expanded with info I already internalized for better use.
+
+### Windows Terminal
+
+Added config excerpt for using Git Bash in WinTerm.
+
